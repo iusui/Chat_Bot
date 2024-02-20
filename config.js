@@ -13,7 +13,7 @@
       "lazySocket": true,
       "themeName": "prism",
       "botName": "Daddy",
-      "avatarUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techopedia.com%2Fdefinition%2F24063%2Finternet-bot&psig=AOvVaw0FO-VGG4CLgjzUyaFqBIFF&ust=1708514598921000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLilkoDnuYQDFQAAAAAdAAAAABAJ",
+      //"avatarUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techopedia.com%2Fdefinition%2F24063%2Finternet-bot&psig=AOvVaw0FO-VGG4CLgjzUyaFqBIFF&ust=1708514598921000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLilkoDnuYQDFQAAAAAdAAAAABAJ",
       "frontendVersion": "v1",
       "useSessionStorage": true,
       "theme": "prism",
