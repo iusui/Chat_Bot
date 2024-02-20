@@ -3,8 +3,8 @@
 
 
   window.botpressWebChat.init({
-      "composerPlaceholder": "Chat with Daddy",
-      "botConversationDescription": "This chatbot was built surprisingly fast with Botpress",
+      "composerPlaceholder": "Estrella Bot",
+      "botConversationDescription": "Cinefreak",
       "botId": "915e55d7-e3ea-4e77-b501-b075167c2177",
       "hostUrl": "https://cdn.botpress.cloud/webchat/v1",
       "messagingUrl": "https://messaging.botpress.cloud",
@@ -13,7 +13,7 @@
       "lazySocket": true,
       "themeName": "prism",
       "botName": "Daddy",
-      "avatarUrl": "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/266289338_3198689887124845_670228095507260885_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=SL6I0XOLEIwAX-Si-h-&_nc_ht=scontent.fccu3-1.fna&oh=00_AfAm5ts89m7qCnDuW62LYsw6PiwgwWy4FR-wTSMcaC9iCA&oe=65D9E29E",
+      "avatarUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techopedia.com%2Fdefinition%2F24063%2Finternet-bot&psig=AOvVaw0FO-VGG4CLgjzUyaFqBIFF&ust=1708514598921000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLilkoDnuYQDFQAAAAAdAAAAABAJ",
       "frontendVersion": "v1",
       "useSessionStorage": true,
       "theme": "prism",
