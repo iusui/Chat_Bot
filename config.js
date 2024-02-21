@@ -13,7 +13,6 @@
       "lazySocket": true,
       "themeName": "prism",
       "botName": "Estrella Bot",
-      "stylesheet": "https://webchat-styler-css.botpress.app/prod/code/ba07d714-9f17-45f6-8289-c95dae10cede/v19983/style.css",
       "frontendVersion": "v1",
       "useSessionStorage": true,
       "theme": "prism",
